@@ -9,9 +9,8 @@ Epoch 10 out of 10
 924/924 [==============================] - 6s - train loss: 0.0916        
 Evaluating on dev set - dev UAS: 86.45
 
-================================================================================
-TESTING
-================================================================================
+Testing
+
 Restoring the best model weights found on the dev set
 Final evaluation on test set - test UAS: 87.11
 Writing predictions
